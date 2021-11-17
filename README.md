@@ -9,7 +9,7 @@ This project can be used as a template to create you first IOS Mobile Applicatio
   Xcode
   App Store
   
-  Using the link below install Xcode
+  Using the link below install Xcode https://developer.apple.com/xcode/
   
 ### Step 2
 
