@@ -43,7 +43,7 @@ https://stevenpcurtis.medium.com/downloading-repos-from-github-13a017951450
 
 ## Familiarize yourself with Swift
 
-Swift is that language that is used in developing IOS Apps. Below is a link to Swift Tutorial
+Swift is the language that is used in developing IOS Apps. Below is a link to Swift Tutorial
 
 https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
 
