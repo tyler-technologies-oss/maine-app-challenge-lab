@@ -1,6 +1,6 @@
 
 # Developing Your First Mobile Application
 
-This repository contains the materials required for creating a "Hello World" Mobile Application. Below Instruction are dided into the different platforms that we support.
+This repository contains the materials required for creating a "Hello World" Mobile Application. Below Instruction are divided into the different platforms that we support. Click on you preferred Section to start you first Mobile Application.
 
 [IOS](IOS) | [Code.Org](Code.Org) 
