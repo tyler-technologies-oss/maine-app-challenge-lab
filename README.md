@@ -1,4 +1,3 @@
-## Results {.tabset}
 
 # Developing Your First IOS Application
 
