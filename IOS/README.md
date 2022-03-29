@@ -33,11 +33,14 @@ https://medium.com/swlh/your-first-ios-application-using-xcode-9983cf6efb71
 
 Option 2: 
 
-Clone this repository to download the hello world template
+Clone this repository to download the hello world template.
+
+Under the MAC_APP, open "HelloWorld.xcodeproj, Build and edit the app.
 
 Instructions on how to clone a repo 
 
 https://stevenpcurtis.medium.com/downloading-repos-from-github-13a017951450
+
 
 ### Step 3
 
