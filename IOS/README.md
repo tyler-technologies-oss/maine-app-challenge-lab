@@ -37,6 +37,9 @@ Clone this repository to download the hello world template.
 
 Under the MAC_APP, open "HelloWorld.xcodeproj, Build and edit the app.
 
+<img width="353" alt="Screen Shot 2022-03-29 at 11 51 19 AM" src="https://user-images.githubusercontent.com/77168991/160664699-0162ecda-ff97-4e54-b4bd-3c2b9a077319.png">
+
+
 Instructions on how to clone a repo 
 
 https://stevenpcurtis.medium.com/downloading-repos-from-github-13a017951450
